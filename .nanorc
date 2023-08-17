@@ -1,0 +1,71 @@
+# Line Numbers
+set linenumbers
+
+# Auto Indent
+set autoindent
+
+# Mouse Navigation
+set mouse
+
+# Word Wrap
+set softwrap
+
+# Smooth Scrolling
+set smooth
+
+# Tab Size
+set tabsize 4
+# set tabsize 2
+
+# Tabs to Spaces
+set tabstospaces
+
+## Color Scheme
+# Title Bar
+set titlecolor yellow,red
+# Status
+set statuscolor black,yellow
+# Key
+set keycolor red,black
+# Function
+set functioncolor green,black
+# Number
+set numbercolor black,cyan
+
+# Syntax Highlighting
+include "~/.nano/apacheconf.nanorc"
+include "~/.nano/awk.nanorc"
+include "~/.nano/c.nanorc"
+include "~/.nano/conf.nanorc"
+include "~/.nano/css.nanorc"
+include "~/.nano/csv.nanorc"
+include "~/.nano/fish.nanorc"
+include "~/.nano/git.nanorc"
+include "~/.nano/html.nanorc"
+include "~/.nano/java.nanorc"
+include "~/.nano/javascript.nanorc"
+include "~/.nano/js.nanorc"
+include "~/.nano/json.nanorc"
+include "~/.nano/makefile.nanorc"
+include "~/.nano/man.nanorc"
+include "~/.nano/markdown.nanorc"
+include "~/.nano/nanorc.nanorc"
+include "~/.nano/perl.nanorc"
+include "~/.nano/php.nanorc"
+include "~/.nano/pkg-config.nanorc"
+include "~/.nano/pkgbuild.nanorc"
+include "~/.nano/powershell.nanorc"
+include "~/.nano/python.nanorc"
+include "~/.nano/REST.nanorc"
+include "~/.nano/sed.nanorc"
+include "~/.nano/shell.nanorc"
+include "~/.nano/systemd.nanorc"
+include "~/.nano/sql.nanorc"
+include "~/.nano/tex.nanorc"
+include "~/.nano/toml.nanorc"
+include "~/.nano/vi.nanorc"
+include "~/.nano/x11basic.nanorc"
+include "~/.nano/xml.nanorc"
+include "~/.nano/xresources.nanorc"
+include "~/.nano/yaml.nanorc"
+include "~/.nano/zsh.nanorc"
