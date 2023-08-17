@@ -46,4 +46,4 @@ Join us in the quest for terminal excellence! ✨🔥
 ---
 
 *Harnessing the past, embracing the future, one line of code at a time.*
-```
+
