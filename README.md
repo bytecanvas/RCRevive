@@ -1,12 +1,12 @@
 # RCRevive - Resurrecting .bashrc 📜✨
 
-Welcome to RCRevive! 🌟 This repository is dedicated to the revival of your `.bashrc` configuration - the heart of your terminal adventures. Here, we honor the power of customization that breathes life into your command-line experience. ⚡️🧙‍♂️
+Welcome to RCRevive! 🌟 This repository is dedicated to the revival of your `.rc` configuration - the heart of your terminal adventures. Here, we honor the power of customization that breathes life into your command-line experience. ⚡️🧙‍♂️
 
 ## About
 
-RCRevive is your sanctuary for rejuvenating your `.bashrc` file. Whether it's a fresh development environment or a new machine, this repository holds the key to quickly resurrecting your beloved terminal settings.
+RCRevive is your sanctuary for rejuvenating your `.rc` file. Whether it's a fresh development environment or a new machine, this repository holds the key to quickly resurrecting your beloved terminal settings.
 
-⚠️ **Disclaimer**: This repository is specifically tailored for personal `.bashrc` configurations used with VirtualBox environments.
+⚠️ **Disclaimer**: This repository is specifically tailored for personal `.rc` configurations used with VirtualBox environments.
 
 ## Getting Started
 
