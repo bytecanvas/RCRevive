@@ -211,3 +211,5 @@ fi
 
 
 # BASH Animation 
+
+source ~/.local/share/blesh/ble.sh
